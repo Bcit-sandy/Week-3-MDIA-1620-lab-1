@@ -5,8 +5,8 @@
 // 
 const petname = "Kyuubi";
 let entity = "feather toy";
-console.log("My weekly activity during the weekend is to play with my cat," + " " + petname + ".");
-console.log(petname + " loves to play with her favourite" + " " + entity + ".");
+console.log("My weekly activity during the weekend is to play with my cat," + " " + petname + "." + " " + petname + " loves to play with his favourite" + " " + entity + ".");
+
 
 entity = "My sister";
 console.log(entity + " usually will spend " + 30 + " minutes to play with " + petname + ", then she will go shopping with me afterwards.");
@@ -14,13 +14,11 @@ console.log(entity + " usually will spend " + 30 + " minutes to play with " + pe
 entity = "my sister";
 console.log(petname + " will then go sleep while "+ entity +" and I go shopping.");
 
-console.log("By the end of the day," + petname + " will welcome " + entity + " and I back home.");
+console.log("By the end of the day, " + petname + " will welcome " + entity + " and I back home.");
 
 entity = "canned food"
 
-console.log("We will make " + petname + " his favourite " + entity + ".");
+console.log("We will make " + petname + " his favourite " + entity + "." + " " + petname+ " will eat very fast and finish the " + entity+ " in "+ 15 + " minutes. We will laugh about it and take photos of him.");
 
-console.log(petname+ " will eat very fast and finish the " + entity+ " in "+ 15 + " minutes.");
-
-console.log("This will make my family a happy relax day!")
+console.log("\x1b[31m", "This will make my family a happy relax day!")
 
