@@ -23,3 +23,5 @@ console.log("We will make " + petname + " his favourite " + entity + "." + " " +
 
 console.log("\x1b[31m", "This will make my family a happy relax day!")
 
+// I like the color change at the end, but there can be more colours at the start too because its a little hard to read in the terminal! :D
+//-Sophia Wan-
