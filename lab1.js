@@ -2,7 +2,8 @@
 // step2: have to create a console.log 
 // step 3: Pick a topic --> Topic is #2
 // step 4: Const petname = "Kyuubi"; let people = "my sister"
-// 
+// The story will be about my day with my cat 
+
 const petname = "Kyuubi";
 let entity = "feather toy";
 console.log("My weekly activity during the weekend is to play with my cat," + " " + petname + "." + " " + petname + " loves to play with his favourite" + " " + entity + ".");
